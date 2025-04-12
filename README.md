@@ -14,7 +14,7 @@ This project is a simple yet dynamic quiz game powered by **Gemini AI**. It gene
 ## Requirements
 - Python 3.x
 - `google-generativeai` library
-- Gemini API Key
+- Gemini API Key()
 
 ## Installation
 ```bash
